@@ -1,4 +1,4 @@
-# UrbanProject-Django
+# Курсовой UrbanProjectDjango
 
 Проект в рамках обучения в Urban University.  
 Используемая версия Python 3.12
