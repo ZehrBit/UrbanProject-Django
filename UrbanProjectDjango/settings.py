@@ -41,7 +41,7 @@ ROOT_URLCONF = 'UrbanProjectDjango.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates']
+        'DIRS': [BASE_DIR / 'simpleapp/templates']
         ,
         'APP_DIRS': True,
         'OPTIONS': {
